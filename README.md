@@ -29,5 +29,5 @@ I have downloaded IPL 2023 data from kaggle, explored the data and performed dat
 25. Bowling Statistics
 26. Team wise statistics
 
-Note: I have done this using google colab. So, try to use google colab so that it would display the colors and other features same. For statistics, you can give your favourite team as input so that it displays all the related information about it.
+Note: I have done this using google colab. So, try to use google colab so that it would display the output, colors same as I used. For statistics, you can give your favourite team as input so that it displays all the related information about it.
 
